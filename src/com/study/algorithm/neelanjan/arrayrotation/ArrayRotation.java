@@ -27,7 +27,7 @@ public class ArrayRotation {
     }
 
     /**
-     * traverse the array up to rotation left, stores the 0th element in temp variable
+     * traverse the full array, stores the 0th element in temp variable
      * and shifts the rest of the elements left and stores back the temp
      * variable at end
      *
